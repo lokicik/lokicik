@@ -10,7 +10,9 @@
 
 - 📫 Reach me **efelokman227@gmail.com**
 
-- ⚡ Fun fact **My dream is to go to Japan**
+- ⚡ Fun fact **My dream is to go to Japan,**
+               **Find a solution for the interstellar transportation problem,**
+               **Invent an AI philosophical system that contains the studies of past philosophers which you can talk with**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
