@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lokicikai" target="blank"><img src="https://img.shields.io/twitter/follow/lokicikai?logo=twitter&style=for-the-badge" alt="lokicikai" /></a> </p>
 
-- 🌱 Currently learning **Python**
+- 🌱 Currently learning **Data Science, Machine Learning, Java, C, VHDL, Assembly(x8086)**
 
 - 📫 Reach me **efelokman227@gmail.com**
 
