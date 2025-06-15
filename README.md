@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/lokicik/lokicik/blob/main/aifuji.png)
 <h1 align="center">Hi 👋, I'm Lokman</h1>
 <h3 align="center">A computer engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/lokicik/lokicik/blob/main/robo.gif">
