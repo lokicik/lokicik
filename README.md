@@ -84,7 +84,7 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=lokicik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=lokicik&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokicik&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" /></td>  </tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokicik&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook,css,mdx,html" alt="Top Languages" /></td>  </tr>
 </table>
 
 
