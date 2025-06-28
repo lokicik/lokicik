@@ -1,7 +1,7 @@
-<h1 align="center">lokicik</h1>
+<h1 align="center">lokman</h1>
 <h3 align="center">freak</h3>
-<img align="right" alt="Coding" width="400" height="600" src="https://github.com/lokicik/lokicik/blob/main/robo.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokicik&label=Profile%20views&color=0e75b6&style=flat" alt="lokicik" /> </p>
+<img align="right" alt="Coding" width="400" height="600" src="https://github.com/lokmanbefe/lokmanbefe/blob/main/robo.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokmanbefe&label=Profile%20views&color=0e75b6&style=flat" alt="lokmanbefe" /> </p>
 
 
 - 🌱 Currently learning **basically everything**
@@ -13,8 +13,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokmanefe) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19690197/lokicik) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lokicikai) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19690197/lokmanefe) 
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
@@ -110,9 +109,9 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=lokicik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=lokicik&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokicik&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook,css,mdx,html" alt="Top Languages" /></td>  </tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=lokmanbefe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=lokmanbefe&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmanbefe&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook,css,mdx,html" alt="Top Languages" /></td>  </tr>
 </table>
 
 
