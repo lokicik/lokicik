@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning **basically everything**
 
-- 📫 Reach me **lokman@lokmanbaturayefe.com**
+- 📫 Reach me **lokman@lokmanefe.com**
 
 - ⚡ Fun fact: **My dream is to go to Japan (getting closer every day!)**
                
