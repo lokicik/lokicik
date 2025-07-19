@@ -1,7 +1,7 @@
 <h1 align="center">lokman</h1>
 <h3 align="center">freak</h3>
 <img align="right" alt="Coding" width="400" height="600" src="https://github.com/lokmanbefe/lokmanbefe/blob/main/robo.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokmanbefe&label=Profile%20views&color=0e75b6&style=flat" alt="lokmanbefe" /> </p>
+<p align="left">  </p>
 
 
 - 🌱 Currently learning **basically everything**
