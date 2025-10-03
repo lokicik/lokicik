@@ -4,11 +4,7 @@
 <p align="left">  </p>
 
 
-- 🌱 Currently learning **basically everything**
-
-- 📫 Reach me **hello@lokmanefe.com**
-
-- ⚡ Fun fact: **My dream is to go to Japan (getting closer every day!)**
+I just wanna scale anything
                
 
 ## 🌐 Socials:
