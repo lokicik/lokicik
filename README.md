@@ -7,13 +7,13 @@
 - ex-senior junior lead @ stealth mode nonsense  
 
 ## currently building / scaling / breaking  
-- industrial inconvenience engineering  
-- force push driven development  
-- infinite regress abstractions (recursively)  
-- liquification-as-a-service  
-- analytical analysis™  
-- rats (the gray startup founders of the street)  
-- aura coding > vibe coding (vibes don’t raise a series a)  
+- latency mining  
+- cloud hoarding  
+- permissionless inconvenience protocols  
+- async chaos pipelines  
+- hype-driven architecture  
+- bird whisperer (distributed systems edition)   
+- resonance coding > aura coding + vibe coding  
 
 ## guiding principle  
 > i don’t ship mvp. i ship mv💥p.  
